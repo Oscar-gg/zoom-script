@@ -10,3 +10,7 @@ Typing `menu` opens the main `InputBox`, where you can introduce a value.
 The variable `accion` stores the input from the `InputBox`.
 
 Modify `Text` variable to change the text displayed by the InputBox.
+
+## Video of script working:
+
+<video src='https://github.com/Oscar-gg/zoom-script/blob/main/Script%20Example.mp4' width=180/>
