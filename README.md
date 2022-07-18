@@ -13,4 +13,4 @@ Modify `Text` variable to change the text displayed by the InputBox.
 
 ## Video of script working:
 
-<video src='https://github.com/Oscar-gg/zoom-script/blob/main/Script%20Example.mp4' width=180/>
+[![Some Caption]()](https://github.com/Oscar-gg/zoom-script/blob/main/Script%20Example.mp4)
